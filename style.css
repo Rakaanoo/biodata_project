@@ -1,0 +1,36 @@
+
+body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+            margin: 20px;
+        }
+
+        .motto {
+            position: relative;
+            overflow: show;
+            white-space: nowrap;
+        }
+
+        .motto span {
+            position: absolute;
+            animation: gerak 15s linear infinite;
+        }
+
+        @keyframes gerak {
+            from { left: 100%; }
+            to { left: -100%; }
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+            padding: 8px;
+        }
+
+        a {
+            text-decoration: none;
+            background: darkblue;
+            color: white;
+            padding: 8px 15px;
+            border-radius: 5px;
+        }
