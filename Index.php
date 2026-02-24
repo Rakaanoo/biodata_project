@@ -41,7 +41,7 @@ $umur_10_lagi = $umur + 10;
 <h1>BIODATA</h1>
 
 <h3>Foto</h3>
-<img src="c:\Users\THINKPAD\OneDrive\Pictures\foto gwa lagi.jpeg" alt="foto">
+<img src="foto gwa lagi.jpeg" alt="foto">
 
 <p><b>Nama Lengkap:</b> <?php echo $nama_lengkap; ?></p>
 <p><b>Nama Panggilan:</b> <?php echo $nama_panggilan; ?></p>
@@ -151,3 +151,4 @@ Saya ingin menjadi pengusaha kebun kopi yang menjual bahan kopi mentah dan memil
 </div>
 </body>
 </html>
+
