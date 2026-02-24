@@ -31,7 +31,8 @@ $umur_10_lagi = $umur + 10;
 <head>
     <title>Biodata <?php echo $nama_panggilan; ?></title>
 
-    <!-- ICON -->
+    <!-- ICON&STYLE -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
 
    
@@ -154,6 +155,7 @@ Saya ingin menjadi pengusaha kebun kopi yang menjual bahan kopi mentah dan memil
 </div>
 </body>
 </html>
+
 
 
 
