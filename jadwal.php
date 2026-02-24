@@ -68,4 +68,7 @@ a {
 <td>PGD</td>
 <td>-</td>
 </tr>
+
 </table>
+<br></br>
+<a href="index.php">Kembali</a>
