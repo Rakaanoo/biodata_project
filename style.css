@@ -1,9 +1,15 @@
 
 body {
             font-family: Arial;
-            background-color: #f4f4f4;
+            background-color: #1c0cfe;
             margin: 20px;
         }
+         .container {
+            background: rgb(215, 215, 232);
+            padding: 50px;
+            border-radius: 10px;
+        }
+
          img {
 
              width: 150px;
@@ -41,4 +47,5 @@ body {
             border-radius: 5px;
 
         }
+
 
