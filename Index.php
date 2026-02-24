@@ -11,7 +11,7 @@ $alamat = "Jl. Tlogomukti Barat I NO. 686,Tlogosari Kulon,Pedurungan,Semarang";
 $gender = "Laki-laki";
 $kewarganegaraan = "Indonesia";
 $no_wa = "081229695456";
-$email = "rakanoo@email.com";
+$email = "tarakaabrar@gmail.com";
 $makanan_favorit = ["Nasi Goreng", "Mie Ayam", "Sate"];
 $minuman_favorit = ["Es Teh", "Es Teh Leci", "Kopi"];
 $hobi = ["Otak Atik Motor", "Baca Komik", "Masak"];
@@ -154,6 +154,7 @@ Saya ingin menjadi pengusaha kebun kopi yang menjual bahan kopi mentah dan memil
 </div>
 </body>
 </html>
+
 
 
 
