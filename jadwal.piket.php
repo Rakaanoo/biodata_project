@@ -5,6 +5,7 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class="container">
 <h2>JADWAL PIKET</h2>
 
 <table>
@@ -68,6 +69,8 @@
 <td>-</td>
 </tr>
 </table>
+  </div>
 </body>
 <br></br>
 <a href="index.php">Kembali</a>
+
