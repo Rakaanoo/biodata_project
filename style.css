@@ -4,7 +4,12 @@ body {
             background-color: #f4f4f4;
             margin: 20px;
         }
+         img {
 
+             width: 150px;
+            border-radius: 10px;
+
+        }
         .motto {
             position: relative;
             overflow: show;
@@ -33,4 +38,5 @@ body {
             color: white;
             padding: 8px 15px;
             border-radius: 5px;
+
         }
