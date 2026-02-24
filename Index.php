@@ -38,6 +38,7 @@ $umur_10_lagi = $umur + 10;
 </head>
 
 <body>
+<div class="container">
 
 <h1>BIODATA</h1>
 
@@ -153,5 +154,6 @@ Saya ingin menjadi pengusaha kebun kopi yang menjual bahan kopi mentah dan memil
 </div>
 </body>
 </html>
+
 
 
