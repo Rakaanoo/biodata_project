@@ -16,6 +16,7 @@ $makanan_favorit = ["Nasi Goreng", "Mie Ayam", "Sate"];
 $minuman_favorit = ["Es Teh", "Es Teh Leci", "Kopi"];
 $hobi = ["Otak Atik Motor", "Baca Komik", "Masak"];
 $motto = "Berjuanglah sekeras mungkin, karena dengan berjuang kamu tau betapa luasnya dunia yang belum kamu jelajahi";
+$ig = "https://www.instagram.com/rakano_isit?igsh=aHM5ejFjc3N6N29v";
 
 // ================== PERHITUNGAN ==================
 $tahun_sekarang = date("Y");
@@ -53,6 +54,7 @@ $umur_10_lagi = $umur + 10;
 <p><b>Kewarganegaraan:</b> <?php echo $kewarganegaraan; ?></p>
 <p><b>No WA:</b> <?php echo $no_wa; ?></p>
 <p><b>Email:</b> <?php echo $email; ?></p>
+<a href="<?= $ig; ?>">Klik disini</a>
 
 <hr>
 
@@ -151,4 +153,5 @@ Saya ingin menjadi pengusaha kebun kopi yang menjual bahan kopi mentah dan memil
 </div>
 </body>
 </html>
+
 
