@@ -1,27 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" href="style.css">
 <title>Jadwal</title>
-<style>
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 8px;
-}
-.highlight {
-    background-color: yellow;
-}
-a {
-    text-decoration: none;
-    background: blue;
-    color: white;
-    padding: 8px 15px;
-    border-radius: 5px;
-}
-</style>
 </head>
 <body>
-
+<div class="container">
 <h2>Jadwal Pelajaran</h2>
 <table>
 <tr>
@@ -71,4 +55,7 @@ a {
 
 </table>
 <br></br>
+</div>
+</body>
 <a href="index.php">Kembali</a>
+
