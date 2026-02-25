@@ -6,7 +6,7 @@
 </head>
 <body>
 <div class="container">
-<h2>JADWAL PELAJARAN</h2>
+<h2>Jadwal Pelajaran</h2>
 <table>
 <tr>
 <td>SENIN</td>
@@ -52,11 +52,9 @@
 <td>PGD</td>
 <td>-</td>
 </tr>
-
 </table>
-<br></br>
 </div>
 </body>
+
+<br></br>
 <a href="index.php">Kembali</a>
-
-

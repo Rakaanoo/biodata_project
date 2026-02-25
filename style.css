@@ -10,7 +10,7 @@ body {
             border-radius: 10px;
         }
 
-         img {
+        img {
 
              width: 150px;
             border-radius: 10px;
@@ -36,7 +36,7 @@ body {
             border: 1px solid black;
             border-collapse: collapse;
             padding: 8px;
-             background-color: #ffff;
+            background-color: #ffff;
         }
 
         a {
@@ -45,7 +45,4 @@ body {
             color: white;
             padding: 8px 15px;
             border-radius: 5px;
-
         }
-
-

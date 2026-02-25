@@ -32,16 +32,17 @@ $umur_10_lagi = $umur + 10;
     <title>Biodata <?php echo $nama_panggilan; ?></title>
 
     <!-- ICON&STYLE -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
     <link rel="stylesheet" href="style.css">
 
    
 </head>
 
 <body>
+
 <div class="container">
 
-<h1>BIODATA</h1>
+<h1><i class="fa-solid fa-user"></i>BIODATA</h1>
 
 <h3>Foto</h3>
 <img src="foto gwa lagi.jpeg" alt="foto">
@@ -56,6 +57,7 @@ $umur_10_lagi = $umur + 10;
 <p><b>Kewarganegaraan:</b> <?php echo $kewarganegaraan; ?></p>
 <p><b>No WA:</b> <?php echo $no_wa; ?></p>
 <p><b>Email:</b> <?php echo $email; ?></p>
+<p><b>Instagram</b></p>
 <a href="<?= $ig; ?>">Klik disini</a>
 
 <hr>
@@ -155,8 +157,3 @@ Saya ingin menjadi pengusaha kebun kopi yang menjual bahan kopi mentah dan memil
 </div>
 </body>
 </html>
-
-
-
-
-
